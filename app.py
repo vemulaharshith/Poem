@@ -41,6 +41,7 @@ st.markdown("---")
 st.sidebar.header("📚 An RNN based Poem generator trained on Project Gutenberg's data from Shakespeare's sonnets ✒️")
 st.sidebar.markdown("---")
 st.sidebar.markdown("Here's the [link](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt) to the processed dataset from Laurencemoroney , which was originally extracted from The Project Gutenberg EBook of Shakespeare's Sonnets, by William Shakespeare")
+st.sidebar.markdown("---")
 
 ## Text Input
 text = st.text_input("Enter first line", value = "Help me Saurav, you're my only hope")
