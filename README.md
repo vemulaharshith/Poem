@@ -22,4 +22,5 @@ git init
 git clone https://github.com/SauravMaheshkar/Poem-Generator.git
 conda env create -f environment.yml
 conda activate poem
+streamlit run app.py
 ```
