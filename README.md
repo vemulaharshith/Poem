@@ -12,3 +12,14 @@ The dataset used to train this model comes from Project Gutenberg EBook. The pro
 ```
 docker pull docker.pkg.github.com/sauravmaheshkar/poem-generator/poem:v0.1
 ```
+
+## Conda Approach
+
+```
+mkdir <project_name>
+cd <project_name>
+git init
+git clone https://github.com/SauravMaheshkar/Poem-Generator.git
+conda env create -f environment.yml
+conda activate poem
+```
