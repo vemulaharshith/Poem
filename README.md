@@ -1,5 +1,5 @@
 # 📚 Poem Generator v2 ✒️
-A RNN based Poem generator trained on Project Gutenberg's data from Shakespeare's sonnets
+A RNN based Poem generator trained on Project Gutenberg's data from Shakespeare's sonnets. You can interact with the app [here](https://share.streamlit.io/sauravmaheshkar/poem-generator/main/app.py).
 
 ![](https://github.com/SauravMaheshkar/Poem-Generator/blob/main/assets/app.png)
 
