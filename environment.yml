@@ -51,7 +51,6 @@ dependencies:
   - google-pasta=0.2.0=pyh8c360ce_0
   - grpc-cpp=1.33.2=h0202f98_1
   - grpcio=1.31.0=py36h7580e61_0
-  - h5py=2.10.0=py36h0601b69_1
   - hdf5=1.10.6=nompi_h3e39495_100
   - idna=2.10=pyh9f0ad1d_0
   - importlib-metadata=3.4.0=py36h79c6626_0
