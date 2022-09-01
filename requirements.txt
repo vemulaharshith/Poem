@@ -1,4 +1,4 @@
 h5py==2.10.0
-Keras-Preprocessing==1.1.0
-tensorflow-cpu
+Keras
+tensorflow==2.9
 streamlit==1.11.1
